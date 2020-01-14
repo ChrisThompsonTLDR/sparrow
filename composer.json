@@ -1,0 +1,17 @@
+{
+    "name": "christhompsontldr/sparrow",
+    "type": "library",
+    "description": "Sparrow is a simple but powerful database toolkit.",
+    "authors": [
+        {
+            "name": "Mike Cao",
+            "email": "mike@mikecao.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Christhompsontldr\\Sparrow\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
